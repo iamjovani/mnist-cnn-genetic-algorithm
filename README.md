@@ -40,4 +40,4 @@ Make sure you have Python 3.7 or later installed. You can install the required P
 After setting up the environment, you can run the script as follows:
 
 ```bash
-python mnist_cnn_ga.py
+python app-genetic.py
