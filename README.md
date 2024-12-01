@@ -24,7 +24,7 @@ Make sure you have Python 3.7 or later installed. You can install the required P
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/mnist-cnn-genetic-algorithm.git
+    git clone https://github.com/iamjovani/mnist-cnn-genetic-algorithm.git
     cd mnist-cnn-genetic-algorithm
     ```
 
